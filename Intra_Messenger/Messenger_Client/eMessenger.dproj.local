@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2009/11/18 12:07:36.975.pas,C:\Documents and Settings\arnaud.balletti\Mes documents\Téléchargements\DelphiCool_153\APropos.pas=</Transaction>
+    <Transaction>2009/11/18 12:07:36.975.dfm,C:\Documents and Settings\arnaud.balletti\Mes documents\Téléchargements\DelphiCool_153\APropos.dfm=</Transaction>
+    <Transaction>2009/11/18 15:00:14.549.pas,C:\Documents and Settings\arnaud.balletti\Mes documents\Téléchargements\Copie de Messagerie CLIENT\Unit_Musique.pas=</Transaction>
+    <Transaction>2009/11/18 15:00:14.549.dfm,C:\Documents and Settings\arnaud.balletti\Mes documents\Téléchargements\Copie de Messagerie CLIENT\Unit_Musique.dfm=</Transaction>
+    <Transaction>2009/11/18 16:11:28.385.dproj,C:\Documents and Settings\arnaud.balletti\Mes documents\Téléchargements\Copie de Messagerie CLIENT\ChatReseauLocal.dproj=C:\Documents and Settings\arnaud.balletti\Mes documents\Téléchargements\Copie de Messagerie CLIENT\eMessenger.dproj</Transaction>
+    <Transaction>2009/11/23 11:30:11.603.pas,C:\Documents and Settings\arnaud.balletti\Bureau\Messagerie\Messagerie CLIENT\UnitPatience.pas=</Transaction>
+    <Transaction>2009/11/23 11:30:11.603.dfm,C:\Documents and Settings\arnaud.balletti\Bureau\Messagerie\Messagerie CLIENT\UnitPatience.dfm=</Transaction>
+    <Transaction>2009/12/03 16:23:10.130.pas,C:\Documents and Settings\arnaud.balletti\Bureau\Messagerie\Messagerie CLIENT\Config_Audio_Video.pas=</Transaction>
+    <Transaction>2009/12/03 16:23:10.130.dfm,C:\Documents and Settings\arnaud.balletti\Bureau\Messagerie\Messagerie CLIENT\Config_Audio_Video.dfm=</Transaction>
+    <Transaction>2009/12/03 16:38:23.069.pas,C:\Documents and Settings\arnaud.balletti\Bureau\Messagerie\Messagerie CLIENT\ConfigSon.pas=</Transaction>
+    <Transaction>2009/12/03 16:38:23.069.dfm,C:\Documents and Settings\arnaud.balletti\Bureau\Messagerie\Messagerie CLIENT\ConfigSon.dfm=</Transaction>
+    <Transaction>2009/12/09 15:16:03.476.pas,C:\Documents and Settings\arnaud.balletti\Bureau\Messagerie\Messagerie CLIENT\Unit_MsgPerso.pas=</Transaction>
+    <Transaction>2009/12/09 15:16:03.476.dfm,C:\Documents and Settings\arnaud.balletti\Bureau\Messagerie\Messagerie CLIENT\Unit_MsgPerso.dfm=</Transaction>
+    <Transaction>2009/12/09 15:23:36.624.pas,C:\Documents and Settings\arnaud.balletti\Bureau\Messagerie\Messagerie CLIENT\Unit1.pas=C:\Documents and Settings\arnaud.balletti\Bureau\Messagerie\Messagerie CLIENT\Unit_MsgPerso.pas</Transaction>
+    <Transaction>2009/12/09 15:23:36.624.dfm,C:\Documents and Settings\arnaud.balletti\Bureau\Messagerie\Messagerie CLIENT\Unit1.dfm=C:\Documents and Settings\arnaud.balletti\Bureau\Messagerie\Messagerie CLIENT\Unit_MsgPerso.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
